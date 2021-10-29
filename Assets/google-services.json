@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99548818306",
+    "project_id": "travel-yons",
+    "storage_bucket": "travel-yons.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99548818306:android:42a0e9440bb19adf6e7d9b",
+        "android_client_info": {
+          "package_name": "com.uniquetouch.travelyons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99548818306-j4pr807bn7f2d28bjcutklanb7cq7b0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHYyD3VH7ZJqtnTSV1zdYNMsjHTy42F-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99548818306-j4pr807bn7f2d28bjcutklanb7cq7b0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

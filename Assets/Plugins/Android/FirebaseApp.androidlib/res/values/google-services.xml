@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">99548818306</string>
+  <string name="google_storage_bucket" translatable="false">travel-yons.appspot.com</string>
+  <string name="project_id" translatable="false">travel-yons</string>
+  <string name="google_api_key" translatable="false">AIzaSyAHYyD3VH7ZJqtnTSV1zdYNMsjHTy42F-s</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAHYyD3VH7ZJqtnTSV1zdYNMsjHTy42F-s</string>
+  <string name="google_app_id" translatable="false">1:99548818306:android:42a0e9440bb19adf6e7d9b</string>
+  <string name="default_web_client_id" translatable="false">99548818306-j4pr807bn7f2d28bjcutklanb7cq7b0d.apps.googleusercontent.com</string>
+</resources>
